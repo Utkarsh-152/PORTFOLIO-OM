@@ -25,7 +25,7 @@ const About: React.FC = () => {
             viewport={{ once: true }}
           >
             <img 
-              src="src\components\Photo\WhatsApp Image 2025-03-03 at 20.14.14_d23cb502.jpg" 
+              src="https://github.com/Utkarsh-152/PORTFOLIO-OM/blob/main/src/components/Photo/WhatsApp%20Image%202025-03-03%20at%2020.14.14_d23cb502.jpg" 
               alt="Profile" 
               className="rounded-lg shadow-xl  w-full max-w-md mx-auto"
             />
